@@ -1,0 +1,121 @@
+/* ---------- social media icons ---------- */
+.col-md-5 > .fab {
+	display: inline-block;
+	border-radius: 60px;
+	box-shadow: 0px 0px 2px #888;
+	padding: 0.3em 0.4em;
+	font-size: 36px;
+}
+
+.col-md-5 > .fab:hover {
+	opacity: 0.7;
+}
+
+.col-md-5 > .fa-github {
+	background: #333;
+	color: white;
+}
+
+.col-md-5 > .fa-youtube-square {
+	background: #FF0000;
+	color: white;
+}
+.col-md-5 > .fa-linkedin {
+	background: #55ACEE;
+    color: white;
+} 
+
+.col-md-5 > .fa-facebook {
+	background: #3B5998;
+    color: white;
+}
+/* ---------- social media icons ---------- */
+
+/* ---------- Header social media icons ---------- */
+.fab:hover {
+	opacity: 0.7;
+}
+.fa-linkedin {
+	background: #55ACEE;
+    color: white;
+} 
+.fab {
+	display: inline-block;
+	border-radius: 60px;
+	box-shadow: 0px 0px 2px #888;
+	padding: 0.3em 0.4em;
+	font-size: 36px;
+}
+.fa-github {
+	background: #333;
+	color: white;
+}
+/* ---------- Header social media icons ---------- */
+
+.nav-tabs{
+  background-color:#fff;
+}
+.nav-tabs > li > a{
+  border: medium none;
+}
+.nav-tabs > li > a:hover{
+  background-color: #77b300 !important;
+    border: medium none;
+    border-radius: 0;
+    color:#fff;
+}
+#contact {
+	background-color: #d3d3d3;
+}
+#education {
+	background-color: #7EA3FF;	
+}
+#aboutMe {
+	background-color: #F5F3F5;
+
+}
+/* 
+
+#WorkExperience {
+	background-color: #67BCDB;
+	opacity: 0.8;
+}
+#Hobbies {
+	background-color: #d3d3d3;
+}
+ */
+
+.p-3 {
+	background-color: #fff;
+}
+
+.tab-content{
+	background-color: #fff;
+	opacity: 0.8;
+}
+.fakeimg {
+      height: 200px;
+	  width: 200px;
+      background: #aaa;
+  }
+.carousel-caption  h5 {
+  color: #2F4F4F;
+}
+#aboutMe, #education, #projects, #WorkExperience, #Hobbies, #contact {
+	margin-left: 	1em; 
+	padding-top:	3em;
+	margin-right:	1em;
+}
+
+.bg-1 {
+color: #fff;
+	background-image: url(images/uncharted-ll.jpg);
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+}
+
+.iconHead {
+
+}
+  

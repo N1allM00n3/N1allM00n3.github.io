@@ -1,0 +1,9 @@
+Icons used - "Font awesome 5"
+
+Twitter Bootstrap 4 features
+
+1. Navbar
+2. carousel
+3. collapse tab
+4. image link
+5. 
